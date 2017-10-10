@@ -1,0 +1,28 @@
+搜索公众号：算法与数学之美
+Request URL:https://mp.weixin.qq.com/cgi-bin/searchbiz?action=search_biz&token=913860154&lang=zh_CN&f=json&ajax=1&random=0.7476503669575723&query=%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E&begin=0&count=5
+Query String Parameters
+    action:search_biz
+    token:913860154
+    lang:zh_CN
+    f:json
+    ajax:1
+    random:0.7476503669575723
+    query:算法与数学之美
+    begin:0
+    count:5
+
+进入公众号“算法与数学之美” 获取文章接口地址
+Request URL:https://mp.weixin.qq.com/cgi-bin/appmsg?token=913860154&lang=zh_CN&f=json&ajax=1&random=0.08195954081077894&action=list_ex&begin=0&count=5&query=&fakeid=MzA5ODUxOTA5Mg%3D%3D&type=9
+Query String Parameters
+    token:913860154
+    lang:zh_CN
+    f:json
+    ajax:1
+    random:0.08195954081077894
+    action:list_ex
+    begin:0
+    count:5
+    query:
+    fakeid:MzA5ODUxOTA5Mg==
+    type:9
+
